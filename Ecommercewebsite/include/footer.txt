@@ -1,0 +1,8 @@
+		<footer id="main_footer">
+			<br/>
+			
+			<div align="center"><a href="index.php">Home</a> | <a href="register.php">Register</a> | <a href="ulogin.php">User Login</a> | <a href="AdminSection/alogin.php">Admin</a></div>
+			<div align="center"><font color="white">All rights reserved. All the contents of this website are &copy; protected 2010-2014.<br/>Developed by Tek Raj Chhetri</font></div>
+			<div align="justify"><b>Follow us on:</b><br/><a href="https://www.facebook.com/tekraj.chhetri?ref=tn_tnmn">Tek Raj Facebook</a><br/><a href="https://plus.google.com/u/0/+TekrajChhetri/about/op/svuwn">Tek Raj Google+</a><br/><a href="#">Tek Raj Twitter</a></div><table>
+			<br/><br/>
+		<footer>

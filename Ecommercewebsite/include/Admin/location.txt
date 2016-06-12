@@ -1,0 +1,5 @@
+<select id="location" name="location" class="input">
+	
+	<option value="All India">All Over India</option>
+
+</select>

@@ -1,0 +1,15 @@
+$sql = "SELECT product_name,price,details,category FROM products ";
+$query = mysql_query($sql);
+if($query){
+  
+  while($row = mysql_fetch_array($query)){
+         $product_name=  $row["product_name"];
+		 
+
+         $price=$res["price"];
+         $details=$res["details"];
+         $category=$res[4];//["category"];
+  
+  }
+
+}

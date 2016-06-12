@@ -1,0 +1,1 @@
+<div align="right">  <a href="index.php">Home</a> | <a href="viewusers.php">Customer's Information</a> |  <a href="viewitems.php">View All Items</a> | <a href="update.php">Update Items</a> | <a href="additem.php">Add New Items</a> | <a href="aprofile.php">My Profile</a> | <a href="logout.php">Log Out</a></div>

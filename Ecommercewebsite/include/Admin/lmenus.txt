@@ -1,0 +1,7 @@
+			<table class="lmenutable">
+				<tr><td class="lmenu"><a href="viewitems.php">View All Items</a></td></tr>
+				<tr><td class="lmenu"><a href="update.php">Update Items</a></td></tr>
+				<tr><td class="lmenu"><a href="additem.php">Add New Items</a></td></tr>
+				<tr><td class="lmenu"><a href="aprofile.php">My Profile</a></td></tr>
+				<tr><td class="lmenu"><a href="viewusers.php">Customer's Information</a></td></tr>
+				</table>

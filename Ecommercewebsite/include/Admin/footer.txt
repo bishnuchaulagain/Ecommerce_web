@@ -1,0 +1,5 @@
+		<footer id="main_footer">
+			<br/>
+			<div align="center"><font color="white">All rights reserved. All the contents of this website are &copy; protected 2010-2014.<br/>Developed by Tek Raj Chhetri</font></div>
+			<br/>
+		<footer>

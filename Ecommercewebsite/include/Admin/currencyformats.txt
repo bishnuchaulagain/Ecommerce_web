@@ -1,0 +1,5 @@
+<select id="currencyformat" name="currencyformat">
+	
+	<option value="$">$</option>
+
+</select>
